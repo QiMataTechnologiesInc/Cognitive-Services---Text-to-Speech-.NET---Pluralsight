@@ -215,3 +215,7 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+src/Pluralsight Text to Speech/\.idea/\.idea\.Pluralsight Text to Speech/\.idea/
+
+src/Pluralsight Text to Speech/\.idea/\.idea\.Pluralsight Text to Speech/
